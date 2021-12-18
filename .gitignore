@@ -1,0 +1,9 @@
+.DS_Store
+*.db
+node_modules/
+bower_components/
+Multiplayer/node_modules/
+Multiplayer/bower_components/
+Singleiplayer/node_modules/
+Singleiplayer/bower_components/
+Server/node_modules/

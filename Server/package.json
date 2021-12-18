@@ -1,0 +1,15 @@
+{
+  "name": "aethermano-return",
+  "description": "asdfasdf",
+  "readme": "asdfasdf",
+  "repository": "",
+  "version": "0.0.0",
+  "dependencies": {
+    "infinite-loop": "^0.2.2",
+    "lodash": "~2.4.1",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "pngjs": "*"
+  }
+}

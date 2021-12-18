@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="49" height="29" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="cloud_terrain" tilewidth="16" tileheight="16">
+  <image source="../../../../piskel/cloud_terrain.png" width="176" height="16"/>
+ </tileset>
+ <tileset firstgid="12" name="grassy_terrain" tilewidth="16" tileheight="16">
+  <image source="../../../../piskel/grassy_terrain.png" width="1392" height="16"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="49" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztlEtPAkEMx+uJmCDqLssCJoKikPjEk+I7vg5Gox48GBOD3/9L2GbbbKlDZAFZE+ef/DIznZmddqZdAC8vLy+vvFVA5pj5nH35b9J3/9P9F0ZY89dk4xs11ix6RC6QS+RlSt+cpT6QQ6aHXOfrztg6gSSGI24/83UHHiDJiSfHXH3InnNI3+Lud9zKJPHn1ti3kEVk27HnDDmG6eRSldsassJ9autsk3GNbVVls/5YXxpIiKwpm9SyziNq+2P6T/e0hBSRErLAFLktqb6sIZYhudt1pA1JblMM9h1WkQhpKtsbcg9pHrn2ZRGdEfA5RJmhfkUhdumHykbEau0ux9YC9zuIKO4ex3AzQQx7fH5s/I5VGykqDiJeF7C/2i40HWefQppHk9bDAbPBMe0jm2qs30jmaH2X18i7hUzgIDZnvkOaR1ITV8hzBr/bjFV3SIxdbl1qwPdctP43HfvoX6ZjoBp5HTUA1A5/W3KX1GFENsaO6dM85TzVlLyB1EoAg3XjqgfJJSJrLrVgsAYkz6VmI4OucbnbspqrsK8yDs0aQe5KRO/QYyb5L3l5eXnNSl/ESiYE
+  </data>
+ </layer>
+</map>

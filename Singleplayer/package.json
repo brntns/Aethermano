@@ -1,0 +1,40 @@
+{
+  "name": "aethermano-return",
+  "description": "dfsadf",
+  "readme": "asdfasdf",
+  "repository": "asdfasdf",
+  "version": "0.0.0",
+  "main": "client/index.js",
+  "dependencies": {
+    "lodash": "*",
+    "pngjs": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*",
+    "gulp-download": "*",
+    "gulp-jshint": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-processhtml": "*",
+    "gulp-rename": "*",
+    "gulp-run": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "tiny-lr": "*",
+    "browserify": "*",
+    "vinyl-transform": "*",
+    "vinyl-source-stream": "*",
+    "vinyl-buffer": "*",
+    "gulp-sourcemaps": "*",
+    "watchify": "*",
+    "lodash.assign": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
